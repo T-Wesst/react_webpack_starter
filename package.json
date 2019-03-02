@@ -1,0 +1,15 @@
+{
+  "name": "react_webpack_starter",
+  "version": "1.0.0",
+  "description": "Boilerplate for React apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tyroo West",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^16.8.3",
+    "react-dom": "^16.8.3"
+  }
+}
